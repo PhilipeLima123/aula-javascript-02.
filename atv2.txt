@@ -1,0 +1,23 @@
+ATV 1
+
+a- var x = 5
+var y = 8
+console.log(x === y);
+
+b- var x = 6
+var y = "6"
+console.log(x !== y);
+
+c- var x = "7"
+var y = 7
+console.log(x == y);
+
+ATV 2
+
+var nome = "Boa noite, ";
+nome += "Philipe";
+console.log(nome);
+
+
+
+

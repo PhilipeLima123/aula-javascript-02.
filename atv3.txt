@@ -1,0 +1,23 @@
+ATV 1
+
+var x = 21
+console.log("Resto: " + (x %= 5));
+
+
+ATV 2
+
+var txt = "Programa Start ";
+txt += "formatação Front-End: ";
+txt += "eu faço parte dessa oportunidade";
+console.log(txt);
+
+ATV 3
+
+    var txt = "Mariazinha tem ";
+txt += "9 ";
+txt += "anos e ";
+txt += "7 ";
+txt += "irmãos. ";
+console.log(txt);
+
+
